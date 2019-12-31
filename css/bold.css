@@ -4,8 +4,8 @@
 
 body {
     margin: 2em;
-    font-family: 'Open Sans', sans-serif;
-    font-style: italic;
+	font-family: 'DM Serif Text', serif;
+    font-style: normal;
     background: black;
     background-image: url("/images/bg.jpg");
     color: white;
