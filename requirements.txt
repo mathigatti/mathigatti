@@ -8,7 +8,7 @@ itsdangerous==0.24
 Jinja2==2.8
 Markdown==2.6.3
 MarkupSafe==0.23
-PyYAML==3.11
+PyYAML==5.1
 visitor==0.1.2
 Werkzeug==0.15.3
 wheel==0.24.0
