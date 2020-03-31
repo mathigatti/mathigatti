@@ -1,5 +1,5 @@
 dominate==2.1.16
-Flask==0.10.1
+Flask==1.0
 Flask-Bootstrap==3.3.5.7
 Flask-FlatPages==0.6
 Flask-Script==2.0.5
