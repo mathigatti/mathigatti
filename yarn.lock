@@ -595,7 +595,7 @@ hexo-cli@^3.0.0:
     hexo-fs "^2.0.0"
     hexo-log "^1.0.0"
     hexo-util "^1.4.0"
-    minimist "^1.2.0"
+    minimist "^1.2.2"
     resolve "^1.11.0"
     tildify "^2.0.0"
 
