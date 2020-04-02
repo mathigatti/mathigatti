@@ -499,6 +499,15 @@ a:hover, a:active {
   font-size: 22px;
 }
 
+/* reviews */
+.reviews {
+  margin: 30px;
+}
+.reviews h3 {
+  font-size: 22px;
+}
+
+
 /* links*/
 .links {
   margin: 30px;

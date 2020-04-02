@@ -16,6 +16,11 @@
       else
         a(href="/archives")= __('Archive')
     li
+      if is_current('reviews')
+        a.current(href="/reviews")= __('Reviews')         
+      else
+        a(href="/reviews")= __('Reviews')   
+    li
       if is_current('links')
         a.current(href="/links")= __('Links')					
       else
