@@ -11,7 +11,7 @@ This is a sample of 6 reviews I received working as a freelance developer and te
 
 <script type="text/javascript">
 let frame = document.getElementById('ifrm');
-frame.contentWindow.postMessage(1, 'https://reviews.mathigatti.com');
+frame.contentWindow.postMessage(1, 'https://mathigatti.com');
 
 window.addEventListener('message', event => {
     // IMPORTANT: check the origin of the data! 
