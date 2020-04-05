@@ -75,3 +75,12 @@ Here I show some samples of each cluster. I sorted them from the simplest ones t
 
 ### Cluster 1
 ![descarga (1).png](https://ucarecdn.com/565971db-1047-4100-92aa-c4feca3697ef/)
+
+### Cluster 2
+![descarga (2).png](https://ucarecdn.com/98775929-3cdc-4ff7-8dbb-0038663896bd/)
+
+### Cluster 3
+![descarga.png](https://ucarecdn.com/8f4a6dcf-b501-4b8a-bcc0-0b4822b6c26e/)
+
+### Cluster 4 (Crazy and chaotic patterns)
+![descarga (1).png](https://ucarecdn.com/b7066ecc-a054-4d34-9ec6-e9ef521fad85/)

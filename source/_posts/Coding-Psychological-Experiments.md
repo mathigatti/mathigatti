@@ -6,7 +6,7 @@ tags:
 
 Psychopy library is a useful framework to develop psychological experiments using Python. In this example I will show how to develop a basic experiment that registers how much time it takes for someone to press a key, then I will save the data as a csv file. The full code can be found [here](https://gist.github.com/mathigatti/3635a6414118e34fa90786fb67b6b7ea).
 
-![WhatsApp Image 2019-06-09 at 11.40.28 (2).jpeg](https://ucarecdn.com/747786fb-53a6-470f-9d21-1c0285d2d320/)
+![](https://ucarecdn.com/747786fb-53a6-470f-9d21-1c0285d2d320/)
 
 ## The code
 
@@ -100,10 +100,15 @@ def startScreensAndRecordData(win):
 #### Puting all together and saving it
 Finally we put everything together and save the file as a CSV using pandas :)
 
+
 ```
 def main():
     win = window(resolution)
     data = startScreensAndRecordData(win)
 
     pd.DataFrame(data,columns=["Key","Time"]).to_csv('experiment_' + str(datetime.date.today()) + '.csv')
-    print("Experiment saved as
+
+
+```
+
+![](https://ucarecdn.com/e0615065-b962-4851-998e-1d4da0ce1d75/)

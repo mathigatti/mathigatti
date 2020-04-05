@@ -6,7 +6,7 @@ tags:
 
 Pocket JSON Ops is a rhythm dictionary taken from the book [Pocket Operations](https://b.shittyrecording.studio/file/shittyrec/print/Pocket+Operations+(2019-07-01).pdf), which compiles different percussion rhythms.
 
-![alt text](pattern_example.jpg "Example of a book page")
+![alt text](https://github.com/bu3nAmigue/pocket-json-ops/raw/master/pattern_example.jpg)
 
 
 ## Why we did this?
