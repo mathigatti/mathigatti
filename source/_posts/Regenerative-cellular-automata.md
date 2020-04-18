@@ -2,6 +2,7 @@
 title: Regenerative cellular automata
 date: 2020-03-24 13:55:34
 tags:
+cover_image: images/automata.gif
 ---
 
 Playing around with regenerative celullar automatas.

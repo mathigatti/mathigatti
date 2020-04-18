@@ -2,6 +2,7 @@
 title: Coding Psychological Experiments
 date: 2019-06-09 18:39:02
 tags:
+cover_image: images/psychological.jpg
 ---
 
 Psychopy library is a useful framework to develop psychological experiments using Python. In this example I will show how to develop a basic experiment that registers how much time it takes for someone to press a key, then I will save the data as a csv file. The full code can be found [here](https://gist.github.com/mathigatti/3635a6414118e34fa90786fb67b6b7ea).

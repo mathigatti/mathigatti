@@ -2,6 +2,7 @@
 title: Scraping formatted text from images
 date: 2019-10-03 13:28:21
 tags: ocr
+cover_image: images/ocr.jpg
 ---
 
 # Image to Text conversion utilities
