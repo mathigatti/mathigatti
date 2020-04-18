@@ -18,7 +18,8 @@ In order to do this a postprocessing code is provided at `src/image2tokens.py`. 
 ## Demo
 
 ### Sample Input
-![IMAGE ALT TEXT HERE](https://github.com/mathigatti/img2txt/blob/master/sample/input/sample.png?raw=true)
+
+<img src="https://github.com/mathigatti/img2txt/blob/master/sample/input/sample.png?raw=true" width="100%" border="5" />
 
 ### Sample Output
 ```

@@ -8,4 +8,8 @@ You can check my resume and reviews at [codementor](https://www.codementor.io/ma
 
 I take part into [bu3nAmigue](https://www.instagram.com/bu3namigue/), an artistic collective that applies technology to the arts.
 
-You can contact me through [Instagram](https://instagram.com/mathigatti), [facebook](https://facebook.com/mathi.gatti) or e-mail (mathigatti(a)gmail.com). You can hire me through [codementor](https://www.codementor.io/mathiasgatti).
+You can contact me through [Instagram](https://instagram.com/mathigatti), [facebook](https://facebook.com/mathi.gatti) or e-mail (mathigatti(a)gmail.com). I'm available for long-term mentoring, freelance jobs and interesting projects, you can hire me through [codementor](https://www.codementor.io/mathiasgatti).
+
+**Curriculum Vitae**
+- <a href="https://www.linkedin.com/in/mathias-gatti-a607945b/">linkedIn</a>
+- <a href="https://www.codementor.io/mathiasgatti">codementor</a>

@@ -24,7 +24,6 @@ pretty_urls:
 
 menu:
   home: /
-  blog: /archives
   about: /about
   reviews: /reviews
 
