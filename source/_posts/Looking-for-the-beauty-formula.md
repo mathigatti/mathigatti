@@ -14,32 +14,11 @@ Using this I can generate an infinite number of different patterns, the problem 
 ## Clusterization
 My goal is to group the patterns by its beauty. I do this using a clustering algorithm based on features frequently attributed to beauty such as fractal dimensionality and compression efficiency. You can read more about these features here: [Forsythe, Alex, et al. "Predicting beauty: fractal dimension and visual complexity in art." British journal of psychology 102.1 (2011): 49-70](https://www.researchgate.net/publication/49761486_Predicting_beauty_Fractal_dimension_and_visual_complexity_in_art).
 
-## The Code
+### The Code
 The full code is [here](https://github.com/mathigatti/CellularAutomataClassification) but I also uploaded it into colab [here](https://colab.research.google.com/drive/1FFNRZuRW7lkKi1LnbMR-d8KI0EADl871) so you can run everything from your web browser.
 
 ### Defining clustering attributes
 First I define the previously mentioned attributes, fractal dimension (Code taken from [here](https://gist.github.com/rougier/e5eafc276a4e54f516ed5559df4242c0)) and compression score (The weight of a raw tiff image over its weight compressed as a gif image).
-
-```
-from fractaldimension import fractal_dimension
-import cv2
-import os
-
-def fractalDimension(number):
-    im = cv2.imread('images/'+str(number)+'.tiff',
-    cv2.IMREAD_GRAYSCALE)
-    newDimension = fractal_dimension(im, 0.9)
-    return newDimension
-
-def compressionScore(number):
-    statinfo = os.stat('images/'+str(number)+'.gif')
-    gif = statinfo.st_size # size of the file
-    
-    statinfo = os.stat('images/'+str(number)+'.tiff')
-    tiff = statinfo.st_size # size of the file
-    
-    return tiff/gif
-```
 
 ### Clustering
 There are several clustering algorithms, you can choose the one that best fits your use case.
@@ -50,41 +29,19 @@ In my case I ended up using Agglomerative Clustering which captures better the c
 
 You need to specify the number of clusters, I tried with different numbers, at the end I chose 5 since it grouped them well from null patterns to crazy and chaotic ones.
 
-```
-from sklearn.cluster import AgglomerativeClustering
-import matplotlib.pyplot as plt
-from matplotlib import cm
-
-# Applying clustering algorithm
-clustering = AgglomerativeClustering(n_clusters=5)
-.fit(df[['Fractal Dimension','Compression Eficciency']].values)
-df["cluster"] = clustering.labels_
-
-# Plotting results
-fig, ax = plt.subplots()
-cmap = cm.get_cmap('gist_rainbow')
-ax = df.plot(kind='scatter', x='Fractal Dimension',
-	y='Compression Eficciency',
-	cmap=cmap, c='cluster',ax=ax)
-plt.show()
-```
-
 <img src="https://ucarecdn.com/4fe8f003-2d3f-4296-8c24-9283bb587e2b/" width="100%" border="5" />
 
 ## Results
 Here I show some samples of each cluster. I sorted them from the simplest ones to the most complex. As you can see this method is useful to identify and discard uninteresting patterns such us the ones from the Cluster 0. It's also useful to identify the most beautiful patterns, most of the best patterns I found are from the Cluster 3, the one with big complexity but not the biggest fractal dimension.
 
-### Cluster 0 (Null patterns)
+### Cluster 0: Null patterns
 <img src="https://ucarecdn.com/6f41e3ce-45dd-4b8e-aa00-b96fde1f09b4/" width="100%" border="5" />
 
-### Cluster 1
+### Cluster 1 and 2: Almost Null Patterns
 <img src="https://ucarecdn.com/565971db-1047-4100-92aa-c4feca3697ef/" width="100%" border="5" />
 
-### Cluster 2
-<img src="https://ucarecdn.com/98775929-3cdc-4ff7-8dbb-0038663896bd/" width="100%" border="5" />
-
-### Cluster 3
+### Cluster 3: Intermediate complexity / The most interesting and beautiful ones
 <img src="https://ucarecdn.com/8f4a6dcf-b501-4b8a-bcc0-0b4822b6c26e/" width="100%" border="5" />
 
-### Cluster 4 (Crazy and chaotic patterns)
+### Cluster 4: Too crazy and chaotic patterns
 <img src="https://ucarecdn.com/b7066ecc-a054-4d34-9ec6-e9ef521fad85/" width="100%" border="5" />

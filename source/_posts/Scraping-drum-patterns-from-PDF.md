@@ -7,8 +7,7 @@ summary: Big collection of digitalized drum patterns
 
 Pocket JSON Ops is a rhythm dictionary taken from the book [Pocket Operations](https://b.shittyrecording.studio/file/shittyrec/print/Pocket+Operations+(2019-07-01).pdf), which compiles different percussion rhythms.
 
-![alt text](https://github.com/bu3nAmigue/pocket-json-ops/raw/master/pattern_example.jpg)
-
+<img src="https://github.com/bu3nAmigue/pocket-json-ops/raw/master/pattern_example.jpg" width="100%" border="5" />
 
 ## Why we did this?
 
