@@ -1,9 +1,16 @@
-<div class="col-md-6 col-12 mb-4">
+<div class="col-md-3 col-12 mb-3">
   <div class="hovereffect">
     <a href="<%- config.root %><%- item.path %>">
-      <img class="img-fluid portfolio-img" src="<%- config.root %><%- item.cover_image || theme.default_cover_image %>" alt="<%- item.title || theme.default_post_title || "Untitled" %>">
-      <div class="overlay">
-        <span class="overlay-text"><%- item.title || theme.default_post_title || "Untitled" %></span>
+
+      <img class="img-fluid portfolio-img overlay-text" src="<%- config.root %><%- item.cover_image || theme.default_cover_image %>" alt="<%- item.title || theme.default_post_title || "Untitled" %>">
+	  <% if (item.summary){ %>
+	        <span class="img-fluid portfolio-img overlay-text asd2"><%- item.summary  || theme.summary || "Untitled" %></span>
+	  <% } %>
+
+      <div class="portfolio-text asd">
+	      <div>
+	        <span class="asd"><%- item.title || theme.default_post_title || "Untitled" %></span>
+	      </div>
       </div>
     </a>
   </div>

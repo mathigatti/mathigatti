@@ -2,7 +2,7 @@
 title: Normalized Google Distance
 date: 2019-06-09 13:27:42
 tags:
-cover_image: images/google.png
+summary: Measuring how similar are two words by scraping Google results.
 ---
 
 Based on the count of google results we can infer the popularity of a word. Also the relationship between the frequency of two words together with respect to its individual frequency is a useful measure of how much two words are related.

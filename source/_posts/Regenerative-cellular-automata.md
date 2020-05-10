@@ -5,7 +5,7 @@ tags:
 cover_image: images/automata.gif
 ---
 
-Playing around with regenerative celullar automatas.
+Testing neural networks able to find cellular automata rules with regenerative capabilities.
 
 <img src="automata1.gif">
 <img src="automata2.gif">
