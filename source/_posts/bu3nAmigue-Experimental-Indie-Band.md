@@ -7,7 +7,7 @@ cover_image: images/bu3namigue.jpg
 
 On december 2019, [solquemal](https://solquemal.com), [pablito](https://www.instagram.com/plabarta_/) and me formed bu3nAmigue, an artistic collective focused on live coding.
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/stfLFoA8maM/maxresdefault.jpg)](https://www.youtube.com/watch?v=stfLFoA8maM)
+<a href="https://www.youtube.com/watch?v=stfLFoA8maM"><img src="https://i.ytimg.com/vi/stfLFoA8maM/maxresdefault.jpg" width="100%" border="5" /></a>
 
 You can check our social networks here:
 - [Instagram](https://www.instagram.com/bu3namigue/)

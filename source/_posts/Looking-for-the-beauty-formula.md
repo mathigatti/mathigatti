@@ -7,7 +7,7 @@ cover_image: images/pattern2.jpg
 
 Some time ago I created [this](https://gist.github.com/mathigatti/439a0e81556f2698c7db4f41189d201f) small script to convert numbers into patterns. I'm not going to explain how the script works in detail but it's inspired on [Stephen Wolfram's Elementary Cellular Automatas](https://en.wikipedia.org/wiki/Elementary_cellular_automaton) which converts numbers like 30 into binary (00011110) and then interprets the digits as turning ON or OFF of 8 different basic rules (In that case there are 4 rules activated, rule 4, 5, 6 and 7) that define when to turn ON and OFF a pixel in the image.
 
-![ElementaryCARule030_1000.gif](https://ucarecdn.com/a4323adb-4c13-4c4f-a32d-97f86468a1f0/)
+<img src="https://ucarecdn.com/a4323adb-4c13-4c4f-a32d-97f86468a1f0/" width="100%" border="5" />
 
 Using this I can generate an infinite number of different patterns, the problem is that most of them are not really interesting and I have no time to check them one by one. That's why in this post I explain how I tried to automate the process of finding out the most interesting/beautiful cellular automatas.
 
@@ -68,16 +68,17 @@ ax = df.plot(kind='scatter', x='Fractal Dimension',
 	cmap=cmap, c='cluster',ax=ax)
 plt.show()
 ```
-![descarga (5).png](https://ucarecdn.com/4fe8f003-2d3f-4296-8c24-9283bb587e2b/)
+
+<img src="https://ucarecdn.com/4fe8f003-2d3f-4296-8c24-9283bb587e2b/" width="100%" border="5" />
 
 ## Results
 Here I show some samples of each cluster. I sorted them from the simplest ones to the most complex. As you can see this method is useful to identify and discard uninteresting patterns such us the ones from the Cluster 0. It's also useful to identify the most beautiful patterns, most of the best patterns I found are from the Cluster 3, the one with big complexity but not the biggest fractal dimension.
 
 ### Cluster 0 (Null patterns)
-![descarga.png](https://ucarecdn.com/6f41e3ce-45dd-4b8e-aa00-b96fde1f09b4/)
+<img src="https://ucarecdn.com/6f41e3ce-45dd-4b8e-aa00-b96fde1f09b4/" width="100%" border="5" />
 
 ### Cluster 1
-![descarga (1).png](https://ucarecdn.com/565971db-1047-4100-92aa-c4feca3697ef/)
+<img src="https://ucarecdn.com/565971db-1047-4100-92aa-c4feca3697ef/" width="100%" border="5" />
 
 ### Cluster 2
 <img src="https://ucarecdn.com/98775929-3cdc-4ff7-8dbb-0038663896bd/" width="100%" border="5" />
