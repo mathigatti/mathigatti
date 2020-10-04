@@ -9,4 +9,4 @@ I trained a [Neural Network](https://github.com/Kyubyong/dc_tts) to be able to s
 
 <a href="https://www.youtube.com/watch?v=Wc69eKs-69g" ><img src="cortazar.jpg" width="100%" border="5" /></a>
 
-Then I uploaded the model to the internet so it's accessible for anyone through [this website](http://cortazar.mathigatti.com/).
+Then I uploaded the model to the internet so it's accessible for anyone through [this website](http://voces.mathigatti.com/).

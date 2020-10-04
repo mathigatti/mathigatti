@@ -9,4 +9,4 @@ I trained a [Neural Network](https://github.com/Kyubyong/dc_tts) to be able to w
 
 <a href="https://www.youtube.com/watch?v=esqSkUJzAII" ><img src="https://i.ytimg.com/vi/esqSkUJzAII/maxresdefault.jpg" width="100%" border="5" /></a>
 
-Then I uploaded the model to the internet so it's accessible for anyone through [this website](http://asmr.mathigatti.com/).
+Then I uploaded the model to the internet so it's accessible for anyone through [this website](http://voces.mathigatti.com/).
