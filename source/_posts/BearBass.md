@@ -2,7 +2,7 @@
 title: BearBass
 date: 2020-10-05 20:09:51
 tags:
-cover_image: images/bearbass.jpg
+summary: Experiments making a bass out of a bear
 ---
 
 # BearBass
