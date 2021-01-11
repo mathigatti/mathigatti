@@ -4,8 +4,6 @@ title: Home
 comments: false
 ---
 
-# Summary
-
 I am the type of person who tries to build a [machine](https://www.youtube.com/watch?v=2TdsMe_1JtU&ab_channel=MathiasGatti) that stimulates your muscles to play the piano.
 
 # Highlighted Projects
@@ -22,7 +20,7 @@ I am the type of person who tries to build a [machine](https://www.youtube.com/w
 
 # Teaching
 
-- [Web scraping course](https://ihum.ai/cursos/web) at Instituto Humai.
+- [Web scraping course](https://ihum.ai/cursos/web) at Instituto Humai
 
 - [AI applied to the arts course](https://curso.mathigatti.com/) at [WIP Arte Digital](https://wipartedigital.com/)
 
@@ -32,4 +30,4 @@ I am the type of person who tries to build a [machine](https://www.youtube.com/w
 
 - <a href="https://vimeo.com/250628033">Brain's Cut</a>: Visuals and music controlled by brain and body activity
 
-- <a href="https://www.youtube.com/watch?v=stfLFoA8maM">bu3nAmigue</a>: [solquemal](https://solquemal.com), [pablitx](https://pablitx.com/) and me formed an artistic collective focused on live music and visuals generation through coding.
+- <a href="https://www.youtube.com/watch?v=stfLFoA8maM">bu3nAmigue</a>: [solquemal](https://solquemal.com), [pablitx](https://pablitx.com/) and me formed an artistic collective focused on live music and visuals generation through coding
