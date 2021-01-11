@@ -4,7 +4,9 @@ title: Home
 comments: false
 ---
 
-[Painfully](https://www.youtube.com/watch?v=2TdsMe_1JtU&ab_channel=MathiasGatti) curious person.
+# Summary
+
+I'm the kind of person that tries to build a [machine](https://www.youtube.com/watch?v=2TdsMe_1JtU&ab_channel=MathiasGatti) able to control you body and make you play music.
 
 # Highlighted Projects
 
