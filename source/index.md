@@ -20,7 +20,7 @@ I am the type of person who tries to build a [machine](https://www.youtube.com/w
 
 # Teaching
 
-- [Web scraping course](https://ihum.ai/cursos/web) at Instituto Humai
+- [Web scraping course](https://ihum.ai/cursos/web) at [Instituto Humai](http://ihum.ai/)
 
 - [AI applied to the arts course](https://curso.mathigatti.com/) at [WIP Arte Digital](https://wipartedigital.com/)
 
