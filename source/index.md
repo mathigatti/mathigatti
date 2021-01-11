@@ -4,9 +4,7 @@ title: Home
 comments: false
 ---
 
-# Home
-
-I was the kid that liked to take things apart and then failed trying to put them back together.
+[Painfully](https://www.youtube.com/watch?v=2TdsMe_1JtU&ab_channel=MathiasGatti) curious person.
 
 # Highlighted Projects
 
@@ -30,5 +28,6 @@ I was the kid that liked to take things apart and then failed trying to put them
 
 # Live Performance
 
-
 - <a href="https://www.youtube.com/watch?v=stfLFoA8maM">bu3nAmigue</a>: [solquemal](https://solquemal.com), [pablitx](https://pablitx.com/) and me formed an artistic collective focused on live music and visuals generation through coding.
+
+- < href="https://vimeo.com/250628033">Visuals and music controlled by brain and body activity</a>
