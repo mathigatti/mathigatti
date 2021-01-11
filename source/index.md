@@ -32,7 +32,7 @@ I am the type of person who tries to build a [machine](https://www.youtube.com/w
 
 - <a href="https://www.youtube.com/watch?v=stfLFoA8maM">bu3nAmigue</a>: [solquemal](https://solquemal.com), [pablitx](https://pablitx.com/) and me formed an artistic collective focused on live music and visuals generation through coding
 
-# Scientific publications to which I contributed
+# Scientific publications in which I contributed
 
 - Cira, C. I., Alcarria, R., Manso-Callejo, M. Á., & Serradilla, F. (2020). A Deep Learning-Based Solution for Large-Scale Extraction of the Secondary Road Network from High-Resolution Aerial Orthoimagery. Applied Sciences, 10(20), 7272.
 
