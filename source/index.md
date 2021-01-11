@@ -28,6 +28,6 @@ comments: false
 
 # Live Performance
 
-- <a href="https://www.youtube.com/watch?v=stfLFoA8maM">bu3nAmigue</a>: [solquemal](https://solquemal.com), [pablitx](https://pablitx.com/) and me formed an artistic collective focused on live music and visuals generation through coding.
+- <a href="https://vimeo.com/250628033">Brain's Cut</a>: Visuals and music controlled by brain and body activity
 
-- < href="https://vimeo.com/250628033">Visuals and music controlled by brain and body activity</a>
+- <a href="https://www.youtube.com/watch?v=stfLFoA8maM">bu3nAmigue</a>: [solquemal](https://solquemal.com), [pablitx](https://pablitx.com/) and me formed an artistic collective focused on live music and visuals generation through coding.
