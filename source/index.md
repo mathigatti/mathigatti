@@ -31,3 +31,13 @@ I am the type of person who tries to build a [machine](https://www.youtube.com/w
 - <a href="https://vimeo.com/250628033">Brain's Cut</a>: Visuals and music controlled by brain and body activity
 
 - <a href="https://www.youtube.com/watch?v=stfLFoA8maM">bu3nAmigue</a>: [solquemal](https://solquemal.com), [pablitx](https://pablitx.com/) and me formed an artistic collective focused on live music and visuals generation through coding
+
+# Scientific publications to which I contributed
+
+- Cira, C. I., Alcarria, R., Manso-Callejo, M. Á., & Serradilla, F. (2020). A Deep Learning-Based Solution for Large-Scale Extraction of the Secondary Road Network from High-Resolution Aerial Orthoimagery. Applied Sciences, 10(20), 7272.
+
+- Liu, J. Y., Chen, Y. H., Yeh, Y. C., & Yang, Y. H. (2019). Score and lyrics-free singing voice generation. arXiv preprint arXiv:1912.11747.
+
+- Pietto, M. L., Gatti, M., Raimondo, F., Lipina, S. J., & Kamienkowski, J. E. (2018). Electrophysiological approaches in the study of cognitive development outside the lab. PloS one, 13(11), e0206983.
+
+- Pietto, M., Lipina, S. J., Gatti, M., & Kamienkowski, J. (2018). Abordajes electrofisiológicos en el estudio del desarrollo cogntivo fuera del laboratorio. Revista Argentina de Ciencias del Comportamiento (RACC), 10(1), 81-82.
