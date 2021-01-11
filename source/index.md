@@ -6,7 +6,7 @@ comments: false
 
 # Summary
 
-I'm the kind of person that tries to build a [machine](https://www.youtube.com/watch?v=2TdsMe_1JtU&ab_channel=MathiasGatti) able to control you body and make you play music.
+I am the type of person who tries to build a [machine](https://www.youtube.com/watch?v=2TdsMe_1JtU&ab_channel=MathiasGatti) that stimulates your muscles to play the piano.
 
 # Highlighted Projects
 
