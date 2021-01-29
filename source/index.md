@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Home
+title: Freelance Data Scientist and Creative Coder
 comments: false
 ---
 
