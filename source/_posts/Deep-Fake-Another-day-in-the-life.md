@@ -1,12 +1,12 @@
 ---
-title: 'Deep Fake: Another day in the life'
+title: 'John Lennon deep fake: A day in the life'
 date: 2020-11-02 11:54:21
 tags:
 cover_image: images/john.jpg
 description: A day in the life recreated by an AI
 ---
 
-Inspired in the work of [Broccaloo](https://www.youtube.com/channel/UCThULshLB0qiEoL73KxeNbQ) a tried making a new version of the famous song _A day in the life_ using AI.
+Inspired in the work of [Broccaloo](https://www.youtube.com/channel/UCThULshLB0qiEoL73KxeNbQ) I tried making a new version of the famous song _A day in the life_ using AI.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/LzamIu5" data-context="false" ><a href="//imgur.com/a/LzamIu5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
