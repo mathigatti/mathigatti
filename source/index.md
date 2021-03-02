@@ -1,5 +1,6 @@
 ---
-title: Freelance Data Scientist and Creative Coder
+title: Mathias Gatti
+description: Freelance Data Scientist and Creative Coder
 ---
 
 I am the type of person who tries to build a [machine](https://www.youtube.com/watch?v=2TdsMe_1JtU&ab_channel=MathiasGatti) that stimulates your muscles to play the piano.

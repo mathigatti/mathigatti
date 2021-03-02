@@ -3,6 +3,7 @@ title: BearBass
 date: 2020-10-05 20:09:51
 tags:
 summary: Experiments making a bass out of a bear
+description: Experiments making a bass out of a bear
 ---
 
 # BearBass
