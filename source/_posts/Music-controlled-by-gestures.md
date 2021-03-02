@@ -29,7 +29,7 @@ For more details about the website development check [this repository](https://g
 
 2. Go to [the website](http://gestos.mathigatti.com/) and modify the selection bar in order to choose the midi output (Instead of `None`).
 
-https://github.com/mathigatti/gestures2anything/raw/main/imgs/sample_script.jpg
+<img src="https://github.com/mathigatti/gestures2anything/raw/main/imgs/sample_script.jpg" width="50%" border="5" />
 
 ## Support my work
 

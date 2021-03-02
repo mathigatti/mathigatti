@@ -25,3 +25,5 @@ Access to the public dataset: [here](https://docs.google.com/spreadsheets/d/1qgu
 # Technical details
 
 This program works from a simple Google Sheet spreadsheet to which a Script Editor with Google App Script was configured to run [this script](https://github.com/mathigatti/aysa-datos-meteorologicos/blob/main/downloader.gs) and a trigger was set to execute the update_google_sheet (function) every hour. )
+
+<img src="grafico_nivel_del_rio" width="100%" border="5" />
