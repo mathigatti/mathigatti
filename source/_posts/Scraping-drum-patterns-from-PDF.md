@@ -3,6 +3,7 @@ title: Scraping drum patterns from PDF
 date: 2020-02-20 18:48:17
 tags:
 summary: Big collection of digitalized drum patterns
+description: Big collection of digitalized drum patterns
 ---
 
 Pocket JSON Ops is a rhythm dictionary taken from the book [Pocket Operations](https://b.shittyrecording.studio/file/shittyrec/print/Pocket+Operations+(2019-07-01).pdf), which compiles different percussion rhythms.

@@ -3,6 +3,7 @@ title: Keywords2lyrics – Automatic Songwriting from Keywords
 date: 2020-09-26 16:08:09
 tags:
 summary: You feed it with a phrase or a few words and it writes a song inspired on these
+description: You feed it with a phrase or a few words and it writes a song inspired on these
 ---
 
 # Keywords2lyrics

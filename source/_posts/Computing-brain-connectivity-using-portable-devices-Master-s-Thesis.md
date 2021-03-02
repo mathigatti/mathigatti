@@ -1,8 +1,9 @@
 ---
-title: Computing brain connectivity using portable devices - Master's Thesis
+title: My Master's Thesis
 date: 2018-04-04 18:40:41
 tags: neuroscience
 cover_image: images/emotiv.png
+description: Computing brain connectivity using portable and cheap devices
 ---
 
 The topic of my master's thesis was neuroscience. I studied how to use low cost portable electroenchephalographs for advanced  connectivity studies. [Here](https://github.com/mathigatti/EmotivExperiments) is the code for the experiments I coded and [here](https://github.com/mathigatti/EmotivClassifier) the classifiers I used in my thesis to infer different states based on neural connectivity. These things together with the great work of Marcos Pietto and his team ended up in the publications of [this](https://www.ncbi.nlm.nih.gov/pubmed/30475814) paper.

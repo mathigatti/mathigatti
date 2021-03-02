@@ -1,8 +1,9 @@
 ---
-title: Coding Psychological Experiments
+title: How can I develop psychological experiments?
 date: 2019-06-09 18:39:02
 tags:
 cover_image: images/psychological.jpg
+description: Psychopy coding tutorial
 ---
 
 Psychopy library is a useful framework to develop psychological experiments using Python. If you are interested on learning how to use it, I made [this](https://www.codementor.io/@mathiasgatti/how-to-code-basic-psychological-experiments-with-psychopy-vrve71wxm) tutorial where I show how to develop a basic experiment that registers how much time it takes for someone to press a key. The full code can be found [here](https://gist.github.com/mathigatti/3635a6414118e34fa90786fb67b6b7ea).

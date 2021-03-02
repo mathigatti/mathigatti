@@ -3,6 +3,7 @@ title: Scraping formatted text from images
 date: 2019-10-03 13:28:21
 tags: ocr
 summary: The goal of this project is to provide a way to postprocess OCR text from tables or formatted text images into something more maneagable, so it's more appropiate for text processing tasks like extracting full lines of text or filtering words.
+description: Postprocess OCR text from tables or formatted text images into something more maneagable, so it's more appropiate for text processing tasks like extracting full lines of text or filtering words.
 ---
 
 # Image to Text conversion utilities

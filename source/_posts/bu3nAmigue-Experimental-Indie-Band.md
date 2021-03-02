@@ -3,6 +3,7 @@ title: bu3nAmigue - Experimental Indie Band
 date: 2019-12-15 11:09:50
 tags:
 cover_image: images/bu3namigue.jpg
+description: An artistic collective focused on live coding
 ---
 
 On december 2019, [solquemal](https://solquemal.com), [pablito](https://www.instagram.com/plabarta_/) and me formed bu3nAmigue, an artistic collective focused on live coding.

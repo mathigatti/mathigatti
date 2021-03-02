@@ -3,6 +3,7 @@ title: Audio Reactive Slime
 date: 2019-12-31 11:06:33
 tags:
 cover_image: images/physarum.gif
+description: A modification of nicoptere implementation to make mold dance
 ---
 
 A slime mold simulation made by nicoptere and modified by [solquemal](https://solquemal.com) and me for audio reactivity. **Run the interactive demo [here](https://physarum.mathigatti.com/).** It works better on Firefox.

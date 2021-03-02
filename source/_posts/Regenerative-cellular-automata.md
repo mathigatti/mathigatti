@@ -3,6 +3,7 @@ title: Regenerative cellular automata
 date: 2020-03-24 13:55:34
 tags:
 cover_image: images/automata.gif
+description: Testing neural networks able to find cellular automata rules with regenerative capabilities.
 ---
 
 Testing neural networks able to find cellular automata rules with regenerative capabilities.

@@ -3,6 +3,7 @@ title: Singing Synthesis
 date: 2019-05-05 13:17:02
 tags:
 cover_image: images/live-voice.jpg
+description: Real time vocals synthesizer
 ---
 
 Real Time Singing Synthesizer project made from sinsy-NG. The idea was to generate vocal audio samples on real time easily for live coding performances. The code is [here](https://github.com/mathigatti/midi2voice).

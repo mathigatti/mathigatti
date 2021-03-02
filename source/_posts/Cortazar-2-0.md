@@ -3,6 +3,7 @@ title: Cortazar 2.0
 date: 2020-05-08 16:07:36
 tags:
 cover_image: images/cortazar.jpg
+description: I trained a Neural Network to speak like Julio Cortazar
 ---
 
 I trained a [Neural Network](https://github.com/Kyubyong/dc_tts) to be able to speak like [Julio Cortazar](https://es.wikipedia.org/wiki/Julio_Cort%C3%A1zar) and made this video.

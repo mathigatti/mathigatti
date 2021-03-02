@@ -3,6 +3,7 @@ title: 'Flok: Collaborative Live Coding Platform'
 date: 2020-03-16 16:07:15
 tags:
 cover_image: images/flok.jpg
+description: Added FoxDot support for Flok live coding platform
 ---
 
 [@plabarta_](https://www.instagram.com/plabarta_/) and me helped to implement FoxDot on Flok, an amazing tool developed by [munshkr](https://github.com/munshkr/flok) which allows you to live code music and visuals online in a collaborative way. You can check the instructions on the [official repository](https://github.com/munshkr/flok).

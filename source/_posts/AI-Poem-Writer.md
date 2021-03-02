@@ -3,7 +3,7 @@ title: AI Poetry
 date: 2020-01-21 11:10:27
 tags: poetry, gpt-2
 cover_image: images/poetry.jpg
-description: Using GPT-2 to write songs, chats and poetry.
+description: Using GPT-2 to write songs, chats and poetry
 ---
 
 Playing around generating new texts using artificial intelligence algorithms (GPT-2 model) that are inspired on [beachslang](https://en.wikipedia.org/wiki/Beach_Slang) lyrics and spanish whatsapp conversations.

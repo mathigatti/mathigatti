@@ -3,6 +3,7 @@ title: Looking for the formula of beauty
 date: 2019-08-05 18:41:46
 tags: cellular-automata
 cover_image: images/pattern2.jpg
+description: Automatic aesthetic classification for massive art production using generative systems
 ---
 
 Some time ago I created [this](https://gist.github.com/mathigatti/439a0e81556f2698c7db4f41189d201f) small script to convert numbers into patterns. I'm not going to explain how the script works in detail but it's inspired on [Stephen Wolfram's Elementary Cellular Automatas](https://en.wikipedia.org/wiki/Elementary_cellular_automaton) which converts numbers like 30 into binary (00011110) and then interprets the digits as turning ON or OFF of 8 different basic rules (In that case there are 4 rules activated, rule 4, 5, 6 and 7) that define when to turn ON and OFF a pixel in the image.

@@ -3,6 +3,7 @@ title: Style Transfer Experiments
 date: 2019-12-29 11:08:36
 tags: style-transfer
 cover_image: images/style-transfer.jpg
+description: Some artsy pictures using neural networks
 ---
 
 Deep convolutional neural networks were used to change the patterns on the original pictures.
