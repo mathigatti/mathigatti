@@ -21,7 +21,7 @@
   <% if (page.preview_image){ %>
     <meta property="og:image" content="https://mathigatti.com<%= page.preview_image %>">
     <link rel="image_src" href="https://mathigatti.com<%= page.preview_image %>">
-  <% else if (page.cover_image){ %>
+  <% } else if (page.cover_image){ %>
     <meta property="og:image" content="https://mathigatti.com<%= page.cover_image %>">
     <link rel="image_src" href="https://mathigatti.com<%= page.cover_image %>">
   <% } else { %>
