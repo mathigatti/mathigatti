@@ -1,5 +1,6 @@
 ---
 title: Reviews
+description: A sample of reviews I received working as a freelance developer and teacher
 ---
 This is a sample of reviews I received working as a freelance developer and teacher at [codementor](https://www.codementor.io/@mathiasgatti). You can recharge the website to see a new set of reviews.
 

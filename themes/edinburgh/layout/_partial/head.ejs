@@ -19,10 +19,10 @@
   <!--Preview Images-->
 
   <% if (page.preview_image){ %>
-    <meta property="og:image" content="<%= config.root %><%= page.preview_image %>">
+    <meta property="og:image" content="https://mathigatti.com/<%= page.preview_image %>">
     <link rel="image_src" href="<%= config.root %><%= page.preview_image %>">
   <% } else if (page.cover_image){ %>
-    <meta property="og:image" content="<%= config.root %><%= page.cover_image %>">
+    <meta property="og:image" content="https://mathigatti.com/<%= page.cover_image %>">
     <link rel="image_src" href="<%= config.root %><%= page.cover_image %>">
   <% } else { %>
     <meta property="og:image" content="https://mathigatti.com/images/pattern.png">

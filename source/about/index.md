@@ -1,5 +1,6 @@
 ---
 title: About
+description: Brief summary about myself
 ---
 
 # About
