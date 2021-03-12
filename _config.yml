@@ -28,6 +28,13 @@ menu:
   about: /about
   reviews: /reviews
 
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
+  rel: false
+  tags: true
+  categories: true
+
 # Directory
 source_dir: source
 public_dir: public
