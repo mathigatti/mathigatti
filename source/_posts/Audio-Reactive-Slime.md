@@ -6,7 +6,7 @@ cover_image: images/physarum.gif
 description: A modification of nicoptere implementation to make mold dance
 ---
 
-A slime mold simulation made by nicoptere and modified by [solquemal](https://solquemal.com) and me for audio reactivity. **Run the interactive demo [here](https://physarum.mathigatti.com/).** It works better on Firefox.
+A slime mold simulation made by nicoptere and modified by [solquemal](https://solquemal.com) and me for audio reactivity. **Run the interactive demo [here](https://physarum.mathigatti.com/).** It may work better on Firefox.
 
 Inspired by this [amazing work](https://www.sagejenson.com/physarum). Implemented from [this paper](http://eprints.uwe.ac.uk/15260/1/artl.2010.16.2.pdf)
 

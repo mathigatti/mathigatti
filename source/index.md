@@ -14,7 +14,7 @@ I am the type of person who tries to build a [machine](https://youtu.be/2TdsMe_1
 
 - [Send MIDI notes with your gestures](https://gestos.mathigatti.com/)
 
-- [Audio reactive simulation of a slime mold](https://physarum.mathigatti.com/) (It works better in firefox)
+- [Audio reactive simulation of a slime mold](https://physarum.mathigatti.com/)
 
 - [Singing Synthesis](https://pypi.org/project/midi2voice/)
 
