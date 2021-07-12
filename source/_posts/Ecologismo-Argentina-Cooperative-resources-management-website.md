@@ -1,12 +1,11 @@
 ---
-title: 'Ecologismo Argentina'
+title: 'Páginas Verdes'
 date: 2020-07-21 11:57:10
-description: Collaborative website for coolecting data to facilitate taking ecological actions
+description: Collaborative website for collecting data to facilitate taking ecological actions
 summary: Collaborative website for coolecting data to facilitate taking ecological actions
 tags:
 ---
 
-Several friends and I put together the first version of [a collaborative site](https://ecologismo-argentina.github.io/) to collect places and data to facilitate taking ecological actions in Argentina (For now, mainly in CABA).
+Several friends and I put together [this](https://paginas-verdes.github.io/) collaborative website to collect places and data to facilitate taking ecological actions in Argentina.
 
-
-<img src="ecologismo.png" width="100%" border="5" />
+People can just fill a form and submit shops, videotutorials or anything else that provides green solutions.
