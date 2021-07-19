@@ -24,7 +24,7 @@ You can contact me through [Instagram](https://instagram.com/mathigatti), [faceb
 
 - [Github](https://github.com/mathigatti)
 - [Instagram](https://instagram.com/mathigatti)
+- [Twitter](https://twitter.com/mathigatti)
 - [Youtube](https://youtube.com/mathigatti)
-
 
 
