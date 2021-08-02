@@ -12,6 +12,20 @@
   %>
   <title><%= page.title %></title>
   <meta property="og:title" content="<%= page.title %>">
+  <!--Description-->
+  <% if (page.description){ %>
+      <meta name="description" content="<%= page.description %>">
+      <meta property="og:description" content="<%= page.description %>">
+  <% } else if (config.description){ %>
+      <meta name="description" content="<%= config.description %>">
+      <meta property="og:description" content="<%= config.description %>">
+  <% } else if (page.excerpt){ %>
+      <meta name="description" content="<%= strip_html(page.excerpt).replace(/^\s*/, '').replace(/\s*$/, '') %>">
+      <meta property="og:description" content="<%= strip_html(page.excerpt).replace(/^\s*/, '').replace(/\s*$/, '') %>">
+  <% } else if (page.content){ %>
+      <meta name="description" content="<%= strip_html(page.content).replace(/^\s*/, '').replace(/\s*$/, '').substring(0, 150) %>">
+      <meta property="og:description" content="<%= strip_html(page.content).replace(/^\s*/, '').replace(/\s*$/, '').substring(0, 150) %>">
+  <% } %>
 
   <!--Favicon-->
   <link rel="icon" href="https://mathigatti.com/favicon/favicon.png">
@@ -27,21 +41,6 @@
   <% } else { %>
     <meta property="og:image" content="https://mathigatti.com/images/pattern.png">
     <link rel="image_src" href="https://mathigatti.com/images/pattern.png">
-  <% } %>
-
-  <!--Description-->
-  <% if (page.description){ %>
-      <meta name="description" content="<%= page.description %>">
-      <meta property="og:description" content="<%= page.description %>">
-  <% } else if (config.description){ %>
-      <meta name="description" content="<%= config.description %>">
-      <meta property="og:description" content="<%= config.description %>">
-  <% } else if (page.excerpt){ %>
-      <meta name="description" content="<%= strip_html(page.excerpt).replace(/^\s*/, '').replace(/\s*$/, '') %>">
-      <meta property="og:description" content="<%= strip_html(page.excerpt).replace(/^\s*/, '').replace(/\s*$/, '') %>">
-  <% } else if (page.content){ %>
-      <meta name="description" content="<%= strip_html(page.content).replace(/^\s*/, '').replace(/\s*$/, '').substring(0, 150) %>">
-      <meta property="og:description" content="<%= strip_html(page.content).replace(/^\s*/, '').replace(/\s*$/, '').substring(0, 150) %>">
   <% } %>
 
   <!--Author-->
