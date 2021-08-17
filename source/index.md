@@ -1,6 +1,6 @@
 ---
 title: Mathias Gatti
-description: Data Scientist specialized in artificial communication. I like to make computers sing, write and talk.
+description: Data Scientist and Creative Coder. I work on artificial communication, I like to make computers write, sing and talk.
 
 preview_image: about/mathigatti-photo.jpg
 ---
