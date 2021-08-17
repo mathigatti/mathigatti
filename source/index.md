@@ -1,6 +1,7 @@
 ---
 title: Mathias Gatti
-description: Freelance Data Scientist and Creative Coder
+description: Freelance Data Scientist and Creative Coder specialized in artificial communication. I like to make computers write, sing and talk.
+
 preview_image: about/mathigatti-photo.jpg
 ---
 
