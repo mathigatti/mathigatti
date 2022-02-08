@@ -9,15 +9,17 @@ I am the type of person who tries to build a [machine](https://youtu.be/2TdsMe_1
 
 # Highlighted Projects
 
+- [I Fucked My Computer - Sexting chatbot](http://ifuckedmycomputer.com/)
+
 - [Automatic song writing from keywords](http://lyrics.mathigatti.com/)
 
 - [Voice synthesis](http://voces.mathigatti.com/): Make [Julio Cortazar](https://es.wikipedia.org/wiki/Julio_Cort%C3%A1zar) speak again
 
-- [Send MIDI notes with your gestures](https://gestos.mathigatti.com/)
-
 - [Audio reactive simulation of a slime mold](https://physarum.mathigatti.com/)
 
-- [Singing Synthesis](https://pypi.org/project/midi2voice/)
+- [midi2voice](https://pypi.org/project/midi2voice/): Python package for singing synthesis
+
+- [Send MIDI notes with your gestures](https://gestos.mathigatti.com/)
 
 # Teaching
 
