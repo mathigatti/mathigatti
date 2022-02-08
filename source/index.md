@@ -19,7 +19,7 @@ I am the type of person who tries to build a [machine](https://youtu.be/2TdsMe_1
 
 - [midi2voice](https://pypi.org/project/midi2voice/): Python package for singing synthesis
 
-- [gestures2midi](https://gestos.mathigatti.com/): Send MIDI notes with your gestures
+- [gestures2midi](https://gestos.mathigatti.com/): Send MIDI notes with your gestures (fix pending)
 
 # Teaching
 
