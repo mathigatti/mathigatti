@@ -16,6 +16,8 @@ To create the rapbot, this [code](https://github.com/Kyubyong/dc_tts) was used a
 
 The bot converts written text into rapped speech, it is open source and you can try it online from [this link](https://colab.research.google.com/drive/1WPB5xK5W9NHbDK6hBLLQq7Czsld6nmbt#scrollTo=vMrflhX5aY2y)
 
+You can check a demo of the rapper voice [here](https://www.youtube.com/watch?v=HLRmz4WNcHw), the demo song was produced by [Ritchse](https://www.instagram.com/ritchse/).
+
 <a href="https://www.youtube.com/watch?v=HLRmz4WNcHw" ><img src="https://i.ytimg.com/vi/HLRmz4WNcHw/maxresdefault.jpg" width="100%" border="5" /></a>
 
 
