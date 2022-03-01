@@ -3,6 +3,7 @@ title: 'Synthetic whispering: Can machines make ASMR videos?'
 date: 2020-05-05 16:08:09
 tags:
 cover_image: images/asmr.jpg
+summary: I trained a Neural Network to whisper
 description: I trained a Neural Network to whisper
 ---
 
