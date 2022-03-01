@@ -8,7 +8,7 @@ description: Brief summary about myself
 <img src="mathigatti-photo.jpg" width="300px" alt="Mathias Gatti" border="5">
 
 
-I am a freelance software developer from Argentina specialized in Data Science and Creative Coding. I have a computer science degree and several years of experience as a programmer and math teacher. You can check my resume and reviews at [codementor](https://www.codementor.io/mathiasgatti). Several tools and projects I develope are open source and available [here](https://github.com/mathigatti). I take part into [bu3nAmigue](https://bu3namigue.github.io/), an artistic collective that applies technology to the arts.
+I am a freelance software developer from Argentina specialized in Machine Learning and Creative Coding. I have a computer science degree and several years of experience as a programmer and math teacher. You can check my resume and reviews at [codementor](https://www.codementor.io/mathiasgatti). Several tools and projects I develope are open source and available [here](https://github.com/mathigatti). I take part into [bu3nAmigue](https://bu3namigue.github.io/), an artistic collective that applies technology to the arts.
 
 ### Contact
 

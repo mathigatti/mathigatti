@@ -1,6 +1,6 @@
 ---
 title: Mathias Gatti
-description: Data Scientist and Creative Coder. I work on artificial communication, I like to make computers write, sing and talk.
+description: Machine Learning Engineer & Creative Coder | Working on music information retrieval and natural language processing | 🤖 I like to make computers talk and sing
 
 preview_image: about/mathigatti-photo.jpg
 ---
