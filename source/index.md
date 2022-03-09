@@ -45,6 +45,8 @@ I am the type of person who tries to build a [machine](https://youtu.be/2TdsMe_1
 
 - [Deepfakes, arte y memes: qué son y cómo se hacen](https://www.pagina12.com.ar/263098-deepfakes-arte-y-memes-que-son-y-como-se-hacen) - Página 12
 
+- [¿Sabías que podés sextear con un robot?](https://www.filo.news/tecnologia/VIDEO--Sabias-que-podes-sextear-con-un-robot--20220210-0022.html) - Filo.news
+
 # Scientific publications in which I contributed
 
 - Cira, C. I., Alcarria, R., Manso-Callejo, M. Á., & Serradilla, F. (2020). A Deep Learning-Based Solution for Large-Scale Extraction of the Secondary Road Network from High-Resolution Aerial Orthoimagery. Applied Sciences, 10(20), 7272.
