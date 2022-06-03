@@ -9,11 +9,11 @@ I am the type of person who tries to build a [machine](https://youtu.be/2TdsMe_1
 
 # Highlighted Projects
 
-- [I Fucked My Computer](http://ifuckedmycomputer.com/): Sexting chatbot
+- [I Fucked My Computer](https://erato.fun/sexting): Sexting chatbot
 
-- [keywords2lyrics](http://lyrics.mathigatti.com/): Automatic song writing from keywords
+- [keywords2lyrics](https://erato.fun/): Automatic song writing from keywords
 
-- [Voice synthesis](http://voces.mathigatti.com/): Make [Julio Cortazar](https://es.wikipedia.org/wiki/Julio_Cort%C3%A1zar) speak again
+- [Voice synthesis](https://voces.mathigatti.com/): Make [Julio Cortazar](https://es.wikipedia.org/wiki/Julio_Cort%C3%A1zar) speak again
 
 - [physarum](https://physarum.mathigatti.com/): Audio reactive simulation of a slime mold
 
