@@ -9,17 +9,17 @@ I am the type of person who tries to build a [machine](https://youtu.be/2TdsMe_1
 
 # Highlighted Projects
 
+- [Sintesis Vocal](https://sintesisvocal.com/): YouTube channel featuring high quality synthetic voices in Spanish, hire us to get your own custom voices!
+
+- [Voces](https://voces.mathigatti.com/): Make [Julio Cortazar](https://es.wikipedia.org/wiki/Julio_Cort%C3%A1zar) speak again in this online text to speech platform
+
+- [midi2voice](https://pypi.org/project/midi2voice/): Python package for singing synthesis
+
 - [I Fucked My Computer](https://erato.fun/sexting): Sexting chatbot
 
 - [keywords2lyrics](https://erato.fun/): Automatic song writing from keywords
 
-- [Voice synthesis](https://voces.mathigatti.com/): Make [Julio Cortazar](https://es.wikipedia.org/wiki/Julio_Cort%C3%A1zar) speak again
-
 - [physarum](https://physarum.mathigatti.com/): Audio reactive simulation of a slime mold
-
-- [midi2voice](https://pypi.org/project/midi2voice/): Python package for singing synthesis
-
-- [gestures2midi](https://gestos.mathigatti.com/): Send MIDI notes with your gestures (fix pending)
 
 # Teaching
 
