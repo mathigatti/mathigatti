@@ -23,6 +23,8 @@ I am the type of person who tries to build a [machine](https://youtu.be/2TdsMe_1
 
 # Teaching
 
+- [Can computers write poetry?](https://www.cceba.org.ar/medialab/pueden-escribir-poesia-las-computadoras) at [CCEBA Media Lab](https://www.cceba.org.ar/medialab/): [Course material](https://docs.google.com/document/d/e/2PACX-1vQUugllkjwgJi3tV_czOiBtw_mKahBUYI7ojj1E3LSWAmix0rAGXOThrExwCLm59NGjmcg08TPl1bWr/pub)
+
 - [Artificial World Building Course](https://hyperlink.academy/courses/artificial-world-building/90/cohorts/82) at [Hyperlink](https://hyperlink.academy/): [Course Material](https://github.com/mathigatti/ArtificialWorldBuildingCourse)
 
 - [Web scraping course](https://ihum.ai/cursos/web) at [Instituto Humai](http://ihum.ai/): [Course material](https://github.com/institutohumai/cursos-python/tree/master/Scraping)
